@@ -1,0 +1,3 @@
+[submodule "devour"]
+	path = devour
+	url = git@github.com:taneishamitchell/devour.git
